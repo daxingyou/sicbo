@@ -1,4 +1,4 @@
-# Toubao
+# 骰宝
 这是一款骰宝类游戏
 游戏功能：
 1. 可选择不同砝码进行投注
@@ -12,3 +12,7 @@
 让骰子不停的进行位置的随机变化，形成摇骰子开奖的效果。
 3. 判断是否中奖、派奖、添加开奖号码：
 把开奖号码添加都数组中，然后进行判断是否中奖。
+# 打赏
+请我喝杯奶茶吧
+<img src="https://leeseean.github.io/source-zone/zfb.jpg" />
+<img src="https://leeseean.github.io/source-zone/wx.png" />
