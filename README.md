@@ -1,3 +1,6 @@
+# 效果
+线上地址：https://leeseean.github.io/sicbo/
+![](https://leeseean.github.io/source-zone/sicbo.PNG)
 # 骰宝
 这是一款骰宝类游戏
 游戏功能：
