@@ -13,6 +13,6 @@
 3. 判断是否中奖、派奖、添加开奖号码：
 把开奖号码添加都数组中，然后进行判断是否中奖。
 # 打赏
-点击右上角sponsor按钮请我喝杯奶茶吧
-<img src="https://leeseean.github.io/source-zone/zfb.jpg" />
-<img src="https://leeseean.github.io/source-zone/wx.png" />
+点击右上角sponsor按钮，或者扫下面二维码，请我喝杯奶茶吧
+![支付宝](https://leeseean.github.io/source-zone/zfb.jpg)
+![微信](https://leeseean.github.io/source-zone/wx.png)
